@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://johnflores33.github.io
+title: Led Jump
+email: 
+author: johnflores33
+description: My awesome new site
+paginate: 3
+google_analytics: 
